@@ -12,10 +12,10 @@ The exam includes 3 tasks to be done: [Calculator](/tasks/Calculator.md), [Pyram
 ### Result ###
 
 * Author name : {Ilya Aslamov}
-* Codeship : {PUT YOUR CODESHIP BAGDE HERE}
+* Codeship : {https://app.codeship.com/projects/5e1285c0-c8d7-0137-9baf-4ed34c1d115f/status?branch=master}
 
 Example of Codeship badge. Please remove the example before you send us the link. 
-[ ![Codeship Status for ilya-as/tschool](https://app.codeship.com/projects/a9af8940-d130-0134-89a6-5e8aaaa2a5a2/status?branch=master)](https://app.codeship.com/projects/201451)
+[ ![Codeship Status for ilya-as/tschool](https://app.codeship.com/projects/5e1285c0-c8d7-0137-9baf-4ed34c1d115f/status?branch=master)](https://app.codeship.com/projects/5e1285c0-c8d7-0137-9baf-4ed34c1d115f)
 
 
 ### How to start?  ###
